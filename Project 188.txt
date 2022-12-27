@@ -1,0 +1,3 @@
+Visiting Card
+Idea:will be making a pattern marker which on showing to camera displays a plane similar to visiting card
+prototype:will be made using aframe and ar.js libary
